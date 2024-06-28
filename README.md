@@ -57,3 +57,11 @@ Welcome to my GitHub profile! I am **Pierre-Julien**, currently training as a .N
 - Goal: An engaging and educational mini quiz game.
 - Features: Timed quizzes, multiple-choice questions, score tracking.
 - Technologies: Java, Game Development Frameworks.
+
+### Objectives
+
+**🌉 Seeking Apprenticeship in Application Design and Development (CDA)**:  
+My long-term ambition is to integrate an apprenticeship in Application Design and Development. This is a crucial step in blending theory with practice on my professional path.
+
+**🎯 2024 Goal: Daily Commit for Every Day of the Year**:  
+I am dedicated to enhancing my coding practice by setting a 2024 goal to make a commit daily. This consistent effort aims to sharpen my skills and sustain a disciplined approach to software development.
