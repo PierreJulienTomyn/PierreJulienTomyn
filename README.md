@@ -65,3 +65,20 @@ My long-term ambition is to integrate an apprenticeship in Application Design an
 
 **🎯 2024 Goal: Daily Commit for Every Day of the Year**:  
 I am dedicated to enhancing my coding practice by setting a 2024 goal to make a commit daily. This consistent effort aims to sharpen my skills and sustain a disciplined approach to software development.
+
+### Technical Skills
+
+**Programming Languages**:
+- 🌟 **C#**: Solid experience in backend development with .NET.
+- ⚡ **TypeScript** & **JavaScript**: Proficiency in languages for front-end and back-end development.
+- 📊 **SQL**: Advanced skills in database manipulation and management.
+- ☕ **Java**: Fundamental knowledge in Java development.
+
+**Development Environments and Operating Systems**:
+- 💻 **VS Code**: Frequent use for versatile programming.
+- 🖥️ **Visual Studio**: Experience in .NET and C# development.
+- 🌟 **Rider**: Efficient use for .NET and C# development.
+- 💡 **IntelliJ IDEA**: Skills in Java development and other languages.
+- 🐧 **Linux**: Competence in using and managing Linux-based systems.
+- 🍏 **MacOS**: Comfortable with development and operations on MacOS.
+- 🪟 **Windows**: Familiarity with the Windows development environment.
