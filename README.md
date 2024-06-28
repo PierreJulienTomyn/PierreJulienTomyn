@@ -38,3 +38,9 @@ Welcome to my GitHub profile! I am **Pierre-Julien**, currently training as a .N
     ![GitHub CLI](https://img.shields.io/badge/-GitHub%20CLI-181717?style=for-the-badge&logo=github&logoColor=white)
     ![GitFlow](https://img.shields.io/badge/-GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![WSL](https://img.shields.io/badge/-WSL-4EAA25?style=for-the-badge&logo=windows&logoColor=white)
+
+- **Cadres et Technologies**:
+  
+   ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
