@@ -92,3 +92,15 @@ I am dedicated to enhancing my coding practice by setting a 2024 goal to make a 
 - 🖥️ **Vim**, **NeoVim**, **LunarVim**: Using these editors for efficient and fast coding.
 - 💻 **Lazygit**, **GitHub CLI**, **GitFlow**: Tools to optimize Git workflows.
 - 🐧 **WSL (Windows Subsystem for Linux)**: Used for cross-platform development on Windows.
+
+**Frameworks and Technologies**:
+- 🌐 **.NET Core**: Experience in creating robust and high-performance backend applications.
+- 💡 **Node.js**, **NestJS**: Using these technologies for modern and scalable backend application development.
+- ☕ **Eclipse**: Experience with the Eclipse IDE for Java development.
+
+### Contact Me
+
+For any questions, collaboration proposals, or just chat feel free to contact me:
+
+- 📧 Email: [tomyn.pierre@gmail.com](mailto:tomyn.pierre@gmail.com)
+- 🔗 LinkedIn: [Pierre-Julien Tomyn](https://www.linkedin.com/in/pierre-julien-tomyn-07aa0228b/)
