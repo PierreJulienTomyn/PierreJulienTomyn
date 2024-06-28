@@ -82,3 +82,13 @@ I am dedicated to enhancing my coding practice by setting a 2024 goal to make a 
 - 🐧 **Linux**: Competence in using and managing Linux-based systems.
 - 🍏 **MacOS**: Comfortable with development and operations on MacOS.
 - 🪟 **Windows**: Familiarity with the Windows development environment.
+
+**Development Tools and Technologies**:
+- 🛠️ **Git**, **Git Bash**: Complete mastery of versioning and collaboration operations.
+- 🐳 **Docker**, **LazyDocker**: Skills in container management and orchestration.
+- 📦 **Yarn**, **NPM**: Effective dependency management in JavaScript/TypeScript projects.
+- 📬 **Postman**, **DBeaver**: Experience in testing and debugging APIs, as well as database management.
+- 🗄️ **PostgreSQL**, **SQL Server**: Management of relational databases.
+- 🖥️ **Vim**, **NeoVim**, **LunarVim**: Using these editors for efficient and fast coding.
+- 💻 **Lazygit**, **GitHub CLI**, **GitFlow**: Tools to optimize Git workflows.
+- 🐧 **WSL (Windows Subsystem for Linux)**: Used for cross-platform development on Windows.
