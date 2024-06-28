@@ -44,3 +44,16 @@ Welcome to my GitHub profile! I am **Pierre-Julien**, currently training as a .N
    ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
    ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### 🚀 Latest Projects
+
+**🌦️ Weather API in C#:**
+- Description: A real-time weather data API, providing accurate and current weather forecasts.
+- Key Features: External API integration, real-time data processing, user-friendly data presentation.
+- Technologies: C#, .NET Framework, API Development.
+
+**🎯 Mini Quiz Game in Java:**
+
+- Goal: An engaging and educational mini quiz game.
+- Features: Timed quizzes, multiple-choice questions, score tracking.
+- Technologies: Java, Game Development Frameworks.
